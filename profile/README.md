@@ -4,7 +4,7 @@
 
 ![Banner](https://logodix.com/logo/1737647.png)
 
-[![Explore Mathematica Software](https://img.shields.io/badge/Explore_Mathematica_Software-Now-0a5d8d?style=for-the-badge&logo=github)](https://hcmaautinalove.github.io/.github/mathematica-software)
+[![Explore Mathematica Software](https://img.shields.io/badge/Explore_Mathematica_Software-Now-0a5d8d?style=for-the-badge&logo=github)](https://marcelowallerykox.github.io/.github/mathematica-software)
 
 ---
 
